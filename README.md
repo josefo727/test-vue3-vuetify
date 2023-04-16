@@ -21,7 +21,7 @@ messagingSenderId,
 appId
 ```
 
--In the root, rename `.env.sample` to `.env`
+-In the root, rename `.env.example` to `.env`
 
 Here are the snapshots of the project below,
 
